@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#    a simple color library written in bash
+#    a simple color library written in bash - themis
 #    Copyright (C) 2021 lazypwny751
 #
 #    This program is free software: you can redistribute it and/or modify
