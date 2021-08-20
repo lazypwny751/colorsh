@@ -1,7 +1,7 @@
 # colorsh 1.0.0
 a simple color library written in bash
 
-## installation:
+## Installation:
 
 ### way 1
 ```bash
@@ -139,7 +139,7 @@ ${BGIwhite}   # BoldBacgroundIntensified White
 #### lolbash is a function that offers random colors similar to lolcat for every character(s)
 #### Usage: echo -e "$(lolbash) hello${reset}"
 
-### Example
+### example
 ```bash
 source /usr/local/lib/themis/colorsh.sh
 
