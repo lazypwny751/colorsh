@@ -3,15 +3,15 @@ a simple color library written in bash
 
 ## installation:
 
-### step 1
+### way 1
 ```bash
 git clone https://github.com/lazypwny751/colorsh.git && cd colorsh && sudo make install
 ```
 
-### step 2
+### way 2
 install the [themis](https://github.com/ByCh4n-Group/themis) projact then just add the [standart themis library repository](https://github.com/ByCh4n-Group/regular-modules) and just type **sudo themis install colorsh**
 
-### step 3
+### way 3
 also you can use the [binary packages](https://github.com/lazypwny751/colorsh/releases)
 
 ## usage:
